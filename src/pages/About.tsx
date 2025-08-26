@@ -97,7 +97,7 @@ const About = () => {
               </div>
               <div className="flex items-center space-x-3">
                 <Briefcase className="text-accent" size={20} />
-                <span className="text-muted-foreground">4+ Years in Web Development</span>
+                <span className="text-muted-foreground">2+ Years in Web Development</span>
               </div>
               <div className="flex items-center space-x-3">
                 <Calendar className="text-accent" size={20} />
